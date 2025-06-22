@@ -5,7 +5,7 @@ A lightweight PHP package for integrating FBR's Digital Invoicing API using Guzz
 ## Installation
 
 ```bash
-composer require your-vendor/fbr-digital-invoicing
+composer require hameesakhan/fbr-digital-invoicing
 ```
 
 ## Usage
